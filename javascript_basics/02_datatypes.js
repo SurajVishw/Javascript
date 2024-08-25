@@ -10,7 +10,7 @@ let isLoggedIn=true;
 // boolean => true/false
 // null => empty value
 // undefined => value is not assigned to variable
-// symbol
+// symbol =>unique
 
 // object
 
